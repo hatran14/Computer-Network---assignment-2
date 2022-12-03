@@ -1,0 +1,4 @@
+- Vẽ sơ đồ mạng (chưa config)
+main sw(tăng 1), các sw(tầng 2,6), các access point, router cho H6
+tầng 1, tầng 2 (đai diện: 2-5), tăng 6
+thiết bị: desktop, chưa IoT
